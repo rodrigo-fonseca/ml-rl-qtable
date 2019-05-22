@@ -1,0 +1,49 @@
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 90vh;
+  padding: 0;
+  margin: 0;
+}
+
+table {}
+
+table td {
+  border: 1px solid grey;
+}
+
+table tr, table td {
+  width: 100px;
+  height: 100px;
+}
+
+table td.warrior {
+  background-image: url("imgs/warrior.png");
+  background-repeat: no-repeat;
+  background-size: 70px;
+}
+
+table td.castle {
+  background-image: url("imgs/castle.png");
+  background-repeat: no-repeat;
+  background-size: 70px;
+}
+
+table td.alligator {
+  background-image: url("imgs/alligator.png");
+  background-repeat: no-repeat;
+  background-size: 70px;
+}
+
+table td.dead {
+  background-image: url("imgs/dead.png");
+  background-repeat: no-repeat;
+  background-size: 50px;
+}
+
+table td.balloon {
+  background-image: url("imgs/balloon.png");
+  background-repeat: no-repeat;
+  background-size: 50px;
+}
