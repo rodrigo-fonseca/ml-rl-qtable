@@ -1,0 +1,19 @@
+{
+  "name": "qtable",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exec.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigo-fonseca/ml-rl-qtable.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigo-fonseca/ml-rl-qtable/issues"
+  },
+  "homepage": "https://github.com/rodrigo-fonseca/ml-rl-qtable#readme"
+}
